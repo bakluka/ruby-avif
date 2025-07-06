@@ -1,0 +1,5 @@
+/.bundle/
+*.bundle
+/pkg/
+/tmp/
+lib/avif/*.so
