@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.license     = "MIT"
 
   s.files         = Dir["lib/**/*", "ext/avif/**"]
-  s.require_paths = ["lib/avif"]
+  s.require_paths = ["lib"]
   s.extensions    = ["ext/avif/extconf.rb"]
 
   s.required_ruby_version = ">= 3.0.0"

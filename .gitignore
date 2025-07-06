@@ -3,3 +3,4 @@
 /pkg/
 /tmp/
 lib/avif/*.so
+*.gem
